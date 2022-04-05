@@ -1,3 +1,3 @@
 # mechat-app
- MERN Chat-App
+ React Chat-App
 https://mechat-app.netlify.app/
