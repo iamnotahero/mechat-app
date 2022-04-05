@@ -1,3 +1,3 @@
 # mechat-app
- First Production Level MERN Stack
+ MERN Chat-App
 https://mechat-app.netlify.app/
